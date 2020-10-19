@@ -1,0 +1,113 @@
+
+
+
+
+
+
+CSS - Please save as 'style.css'
+
+/************************
+Please do not touch below!
+************************/
+
+body {
+	margin: 0;
+}
+
+#header {
+	color: white;
+	background-color: navy;
+	width: auto;
+	height: 150px;
+	margin-left: -10px;
+	margin-right: -10px;
+	font-size: 1.2em;
+}
+
+#header h1{
+	padding-top: 60px;
+	text-align: center;
+}
+
+#nav {
+	height: 45x;
+	width: auto;
+	margin-left: -15px;
+	margin-right: -15px;
+	background-color: blue;
+	border-bottom: 5px solid navy;
+}
+#nav ul {
+	list-style-type: none;
+	text-align: center;
+	padding:0;
+	margin: 0;
+}
+
+#nav li {
+	display: inline;
+	height: 40px;
+	line-height: 40px;
+}
+
+#nav a {
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+	padding: 9px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+#nav li a:hover {
+	background-color: navy;
+}
+
+/**************************
+Above is the header and navigation styling. Please do not touch!
+It can be updated later.
+If you want to make any changes to the 'body' of your webpage
+please use the pageBody id tag below which comprises of the 
+whole webpage besides the heading and navigation. Hopefully it
+all works.
+***************************/
+
+#E1 {
+color: white;
+text-align: left;
+}
+
+
+a {
+  color: green;
+}
+#top {
+	color: white;
+	text-align: center;
+    font-size: 50px;]	
+}
+#E2 {
+color: blue;
+text-align: left;
+}
+
+#top1 {
+	color: blue;
+	text-align: center;
+    font-size: 50px;
+}
+
+#header1{	
+color: white;
+	background-color: navy;
+	width: auto;
+	height: 150px;
+	margin-left: -10px;
+	margin-right: -10px;
+	font-size: 1.2em;
+	padding-top: 40px;
+}
+
+
+
+
